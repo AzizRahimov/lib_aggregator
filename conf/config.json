@@ -1,0 +1,18 @@
+{
+  "depcred":{
+    "login": "MDOHumo",
+    "password": "123456",
+    "uri":"http://192.168.10.128:90"
+  },
+  "wallet" :{
+    "login": "00004",
+    "password": "1234567890",
+    "uri":"http://192.168.137.125:8092/wallet_test/index.php"
+  },
+  "server" : {
+    "port" : "9999",
+    "token":"TestToken"
+  }
+
+
+}
